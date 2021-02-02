@@ -1,9 +1,9 @@
 <!DOCTYPE>
 <html>
 <head>
-  <title>Some relevant title</title>
+  <title>Bookzy</title>
 </head>
 <body>
-<h2>Hello World! My First Tomcat Deployment</h2>
+<img src="bookzy.png" alt="Welcome to Bookzy">
 </body>
 </html>
